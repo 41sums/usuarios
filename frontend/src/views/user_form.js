@@ -83,7 +83,7 @@ class UserForm extends React.Component{
                     </label>
                     <div className="buttons">
                         <button className="btn">Salvar</button>
-                        <a className="btn back" href="#/">Voltar</a>
+                        <a className="btn btn-dark back" href="#/">Voltar</a>
                     </div>
                 </form>
             </section>
