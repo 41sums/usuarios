@@ -27,7 +27,7 @@ class UserList extends React.Component{
     remove(id){
 
         Swal.fire({
-            title: 'Deseja exluir o usuário?',
+            title: 'Deseja exluir o usuário???',
             text: '',
             type: 'warning',
             showCancelButton: true,
